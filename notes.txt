@@ -18,3 +18,9 @@
 
 
 *then when we psuh our code on the github we dont see the "node_modules" and ".env" file on the github its because we have written those file names in the .gitignore file so thats why it will ignore those files and push everything else.
+
+*we set up git and github with my code.
+
+
+*then we configured "prettier" extension and installer using "npm i -D prettier"
+*and made a ".prettierrc" and ".prettierignore" file to write some files in it which we want prittier to ignore.
