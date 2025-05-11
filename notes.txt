@@ -1,0 +1,17 @@
+we make changes in the "package.js => type: "common.js"=> "module"  "
+
+
+
+on linus/macos we can do => "touch" on terminal to create files.
+on windows we can do "New-Item index.js -ItemType File" to create files or folders through terminal.
+
+
+then we did this " 
+
+
+ "scripts": {
+    "dev": " nodemon src/index.js"
+  },
+  
+  
+  " in our package.js file.
