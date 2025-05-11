@@ -1,0 +1,17 @@
+{
+  "name": "youtube-like-app",
+  "version": "1.0.0",
+  "description": "my mega project",
+  "keywords": [
+    "node",
+    "js",
+    "suraj"
+  ],
+  "license": "ISC",
+  "author": "suraj maru",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
