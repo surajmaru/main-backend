@@ -14,7 +14,7 @@
   },
   
   
-  " in our package.js file.
+  " in our package.js file and nodemon is a tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected.
 
 
 *then when we psuh our code on the github we dont see the "node_modules" and ".env" file on the github its because we have written those file names in the .gitignore file so thats why it will ignore those files and push everything else.
